@@ -1,0 +1,503 @@
+clc
+A=[1,4:-3,1]
+
+A =
+
+     1     1
+
+A=[1,4;-3,1]
+
+A =
+
+     1     4
+    -3     1
+
+b=[34;2]
+
+b =
+
+    34
+     2
+
+X=(A.^-1)
+
+X =
+
+    1.0000    0.2500
+   -0.3333    1.0000
+
+X=(A.^-1)*b
+
+X =
+
+   34.5000
+   -9.3333
+
+104/13
+
+ans =
+
+     8
+
+clc
+A=
+ A=
+   |
+{Error: Expression or statement is incomplete or incorrect.
+} 
+A
+
+A =
+
+     1     4
+    -3     1
+
+b
+
+b =
+
+    34
+     2
+
+A^-1
+
+ans =
+
+    0.0769   -0.3077
+    0.2308    0.0769
+
+ans*b
+
+ans =
+
+     2
+     8
+
+clc
+X=(A^-1)*b
+
+X =
+
+     2
+     8
+
+clc
+A=[1,4;-3,1]
+
+A =
+
+     1     4
+    -3     1
+
+b=[34;2]
+
+b =
+
+    34
+     2
+
+X=(A^-1)*b
+
+X =
+
+     2
+     8
+
+x=X(1,1),y(2,1)
+
+x =
+
+     2
+
+{Undefined function or variable 'y'.
+} 
+x=X(1,1),y=X(2,1)
+
+x =
+
+     2
+
+
+y =
+
+     8
+
+clc
+A=[2,-2,0;-1,1,0;3,4,0]
+
+A =
+
+     2    -2     0
+    -1     1     0
+     3     4     0
+
+b=[4;3;2]
+
+b =
+
+     4
+     3
+     2
+
+X=(A^-1)*b
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.math.mpower.viaMtimes', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\ops\+matlab\+internal\+math\+mpower\viaMtimes.m', 35)" style="font-weight:bold">matlab.internal.math.mpower.viaMtimes</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\ops\+matlab\+internal\+math\+mpower\viaMtimes.m',35,0)">line 35</a>)] 
+
+X =
+
+   Inf
+   Inf
+   Inf
+
+clc
+p = [1 3 1];
+polyval(p,[1.3])
+
+ans =
+
+    6.5900
+
+x=30;
+y=sind(x)
+
+y =
+
+    0.5000
+
+x=1;
+y=atan(x)
+
+y =
+
+    0.7854
+
+x=sqrt(3)
+
+x =
+
+    1.7321
+
+x=sqrt(3)/2
+
+x =
+
+    0.8660
+
+clc
+x=sqrt(3)/2;
+y=sin(acos(x))
+
+y =
+
+    0.5000
+
+(acos(x))
+
+ans =
+
+    0.5236
+
+sin(ans)
+
+ans =
+
+    0.5000
+
+clc
+A=[0,1;-2,-3]
+
+A =
+
+     0     1
+    -2    -3
+
+B=[1,0;3,-2]
+
+B =
+
+     1     0
+     3    -2
+
+C=[1,-1;-2,2]
+
+C =
+
+     1    -1
+    -2     2
+
+A+B
+
+ans =
+
+     1     1
+     1    -5
+
+A - B
+
+ans =
+
+    -1     1
+    -5    -1
+
+A'
+
+ans =
+
+     0    -2
+     1    -3
+
+A^-1
+
+ans =
+
+   -1.5000   -0.5000
+    1.0000         0
+
+diag(A) , diag(B)
+
+ans =
+
+     0
+    -3
+
+
+ans =
+
+     1
+    -2
+
+det(A) , det(B)
+
+ans =
+
+     2
+
+
+ans =
+
+    -2
+
+det (A*B)
+
+ans =
+
+   -4.0000
+
+eig(A)
+
+ans =
+
+    -1
+    -2
+
+clc
+A = [1, 2, 3, 4; 5, 6, 7, 8; 9, 10, 11, 12]
+
+A =
+
+     1     2     3     4
+     5     6     7     8
+     9    10    11    12
+
+B = [1:3, 4]
+
+B =
+
+     1     2     3     4
+
+B = [4,1:3]
+
+B =
+
+     4     1     2     3
+
+clc
+A = [1, 2, 3, 4; 5, 6, 7, 8; 9, 10, 11, 12]
+
+A =
+
+     1     2     3     4
+     5     6     7     8
+     9    10    11    12
+
+B = A(1:3, 4)
+
+B =
+
+     4
+     8
+    12
+
+a=[1 3]
+
+a =
+
+     1     3
+
+D=A(a,1:4)
+
+D =
+
+     1     2     3     4
+     9    10    11    12
+
+clc
+D = A(1,1:4) + A(3,1:4)
+
+D =
+
+    10    12    14    16
+
+A
+
+A =
+
+     1     2     3     4
+     5     6     7     8
+     9    10    11    12
+
+A (3, 3) = -11
+
+A =
+
+     1     2     3     4
+     5     6     7     8
+     9    10   -11    12
+
+A (3, 3) = 11
+
+A =
+
+     1     2     3     4
+     5     6     7     8
+     9    10    11    12
+
+U = A
+
+U =
+
+     1     2     3     4
+     5     6     7     8
+     9    10    11    12
+
+U (3, 3) = -11
+
+U =
+
+     1     2     3     4
+     5     6     7     8
+     9    10   -11    12
+
+BB = [A(1,1:4);U(2,1:4);A(3,1:4)]
+
+BB =
+
+     1     2     3     4
+     5     6     7     8
+     9    10    11    12
+
+clc
+clear
+A = Magic (4)
+{Cannot find an exact (case-sensitive) match for 'Magic'
+
+The closest match is: magic in C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\elmat\magic.m
+
+} 
+clc
+clear
+A = magic (4)
+
+A =
+
+    16     2     3    13
+     5    11    10     8
+     9     7     6    12
+     4    14    15     1
+
+sum(A)
+
+ans =
+
+    34    34    34    34
+
+sum(A')'
+
+ans =
+
+    34
+    34
+    34
+    34
+
+16+11+6+1
+
+ans =
+
+    34
+
+13+10+7+4
+
+ans =
+
+    34
+
+sum(diag(A))
+
+ans =
+
+    34
+
+A
+
+A =
+
+    16     2     3    13
+     5    11    10     8
+     9     7     6    12
+     4    14    15     1
+
+diag(A)
+
+ans =
+
+    16
+    11
+     6
+     1
+
+diag(diag(A))
+
+ans =
+
+    16     0     0     0
+     0    11     0     0
+     0     0     6     0
+     0     0     0     1
+
+spdiags(A)
+
+ans =
+
+     4     9     5    16     0     0     0
+     0    14     7    11     2     0     0
+     0     0    15     6    10     3     0
+     0     0     0     1    12     8    13
+
+diag(A)
+
+ans =
+
+    16
+    11
+     6
+     1
+
+diag(A,-1)
+
+ans =
+
+     5
+     7
+    15
+
