@@ -1,0 +1,6 @@
+C:\4th Sem\CAED\ThreadingInC_01\ThreadingInC_01\bin\Debug\ThreadingInC_01.exe.config
+C:\4th Sem\CAED\ThreadingInC_01\ThreadingInC_01\bin\Debug\ThreadingInC_01.exe
+C:\4th Sem\CAED\ThreadingInC_01\ThreadingInC_01\bin\Debug\ThreadingInC_01.pdb
+C:\4th Sem\CAED\ThreadingInC_01\ThreadingInC_01\obj\Debug\ThreadingInC_01.csprojResolveAssemblyReference.cache
+C:\4th Sem\CAED\ThreadingInC_01\ThreadingInC_01\obj\Debug\ThreadingInC_01.exe
+C:\4th Sem\CAED\ThreadingInC_01\ThreadingInC_01\obj\Debug\ThreadingInC_01.pdb
