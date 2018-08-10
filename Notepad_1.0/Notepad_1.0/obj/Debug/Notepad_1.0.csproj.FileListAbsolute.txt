@@ -1,0 +1,9 @@
+C:\4th Sem\CAED\Notepad_1.0\Notepad_1.0\bin\Debug\Notepad_1.0.exe.config
+C:\4th Sem\CAED\Notepad_1.0\Notepad_1.0\bin\Debug\Notepad_1.0.exe
+C:\4th Sem\CAED\Notepad_1.0\Notepad_1.0\bin\Debug\Notepad_1.0.pdb
+C:\4th Sem\CAED\Notepad_1.0\Notepad_1.0\obj\Debug\Notepad_1.0.csprojResolveAssemblyReference.cache
+C:\4th Sem\CAED\Notepad_1.0\Notepad_1.0\obj\Debug\Notepad_1._0.Form1.resources
+C:\4th Sem\CAED\Notepad_1.0\Notepad_1.0\obj\Debug\Notepad_1._0.Properties.Resources.resources
+C:\4th Sem\CAED\Notepad_1.0\Notepad_1.0\obj\Debug\Notepad_1.0.csproj.GenerateResource.Cache
+C:\4th Sem\CAED\Notepad_1.0\Notepad_1.0\obj\Debug\Notepad_1.0.exe
+C:\4th Sem\CAED\Notepad_1.0\Notepad_1.0\obj\Debug\Notepad_1.0.pdb
