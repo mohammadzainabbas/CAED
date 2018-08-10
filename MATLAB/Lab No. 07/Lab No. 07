@@ -1,0 +1,312 @@
+[Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more
+information, click <a href="matlab:opengl('problems')">here</a>.] 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/get')" style="font-weight:bold">matlab.ui.Figure/get</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scpprop', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m', 61)" style="font-weight:bold">scpprop</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\scpprop.m',61,0)">line 61</a>)
+            dialogUserData = get(dialogFig, 'UserData');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Simulink.scopes.Util.ManageScopeBar', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m', 46)" style="font-weight:bold">Simulink.scopes.Util.ManageScopeBar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\+Simulink\+scopes\+Util\ManageScopeBar.m',46,0)">line 46</a>)
+                scpprop( 'create', scopeFig );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simscope', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p', 864)" style="font-weight:bold">simscope</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\simulink\simulink\simscope.p',864,0)">line 864</a>)
+        Simulink.scopes.Util.ManageScopeBar( ...
+} 
+Error while evaluating PushTool ClickedCallback
+
+[Warning: Legend information is not currently available. The legend appears when simulation has started.] 
+clc

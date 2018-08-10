@@ -1,0 +1,463 @@
+t=[0:.01:4];
+y=sin(2*pi*550*t);
+plot(t,y);
+[Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more
+information, click <a href="matlab:opengl('problems')">here</a>.] 
+sound(y);
+sound(y);
+t=[0:.005:4];
+t=[0:.005:7];
+y=sin(2*pi*550*t);
+sound(y);
+sound(y);
+clc
+y=sin(2*pi*5500*t);
+sound(y);
+t=[0:.005:100];
+y=sin(2*pi*600*t);
+sound(y);
+sound(y);
+y=sin(2*pi*550*t);
+sound(y);
+clc
+sound(y);
+Fs=8000;
+Ts=1/Fs;
+x=[0:Ts:1];
+F_A=440;
+A=sin(2*pi*F_A*x);
+sound(A);
+a=audioread('OutOfTheWoods.mp3');
+sound(a);
+clear(a);
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('clear')" style="font-weight:bold">clear</a>
+Argument must contain a string.
+} 
+clear a
+clc
+sound(A);
+stop(a)
+{Undefined function or variable 'a'.
+} 
+stop(A)
+{Undefined function 'stop' for input arguments of type 'double'.
+} 
+clc
+clc
+clc
+clear all
+clc
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :1
+Enter the duration of recording 5
+Start Speaking :
+End Speaking
+{Undefined function or variable 'recording'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('SoundManipular>getSound', 'C:\MATLAB\Lab No. 05\SoundManipular.m', 39)" style="font-weight:bold">SoundManipular>getSound</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\SoundManipular.m',39,0)">line 39</a>)
+Fs = get(recording, 'Sample Rate');     %Sampling Rate in Fs
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('SoundManipular>Flip', 'C:\MATLAB\Lab No. 05\SoundManipular.m', 46)" style="font-weight:bold">SoundManipular>Flip</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\SoundManipular.m',46,0)">line 46</a>)
+[y Fs]=getSound();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('SoundManipular', 'C:\MATLAB\Lab No. 05\SoundManipular.m', 11)" style="font-weight:bold">SoundManipular</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\SoundManipular.m',11,0)">line 11</a>)
+        x=Flip();
+} 
+matlab.internal.language.introspective.errorDocCallback('SoundManipular>getSound', 'C:\MATLAB\Lab No. 05\SoundManipular.m', 39)
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :1
+Enter the duration of recording 5
+Start Speaking :
+End Speaking
+Flipped Sound is 
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :2
+First sound:
+Enter the duration of recording 3
+Start Speaking :
+End Speaking
+Second sound:
+Enter the duration of recording 3
+Start Speaking :
+End Speaking
+Overlap Sound is 
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :2
+First sound:
+Enter the duration of recording 5
+Start Speaking :
+End Speaking
+Second sound:
+Enter the duration of recording 5
+Start Speaking :
+End Speaking
+Overlap Sound is 
+clc
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :2
+First sound:
+Enter the duration of recording 5
+Start Speaking :
+End Speaking
+Second sound:
+Enter the duration of recording 5
+Start Speaking :
+End Speaking
+Overlap Sound is 
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :3
+Enter the duration of recording 5
+Start Speaking :
+End Speaking
+Enter new amplitude : 3
+Your sound with increased amplitude 
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :4
+Enter the duration of recording 5
+Start Speaking :
+End Speaking
+Enter new amplitude : 4
+Your sound with decreased amplitude 
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :5
+Enter the duration of recording 5
+Start Speaking :
+End Speaking
+Enter new frequency 400
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('horzcat')" style="font-weight:bold">horzcat</a>
+Dimensions of matrices being concatenated are not consistent.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('SoundManipular>ChangeFrequency', 'C:\MATLAB\Lab No. 05\SoundManipular.m', 70)" style="font-weight:bold">SoundManipular>ChangeFrequency</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\SoundManipular.m',70,0)">line 70</a>)
+y=[a NewFrequency];
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('SoundManipular', 'C:\MATLAB\Lab No. 05\SoundManipular.m', 27)" style="font-weight:bold">SoundManipular</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\SoundManipular.m',27,0)">line 27</a>)
+        y=ChangeFrequency();
+} 
+matlab.internal.language.introspective.errorDocCallback('SoundManipular>ChangeFrequency', 'C:\MATLAB\Lab No. 05\SoundManipular.m', 70)
+clc
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :5
+Enter the duration of recording 5
+Start Speaking :
+End Speaking
+Enter new frequency 500
+New sound is :
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('sound', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\sound.m', 76)" style="font-weight:bold">sound</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\sound.m',76,0)">line 76</a>)
+Device Error: Invalid sample rate
+
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('SoundManipular>ChangeFrequency', 'C:\MATLAB\Lab No. 05\SoundManipular.m', 69)" style="font-weight:bold">SoundManipular>ChangeFrequency</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\SoundManipular.m',69,0)">line 69</a>)
+sound(a,NewFrequency);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('SoundManipular', 'C:\MATLAB\Lab No. 05\SoundManipular.m', 27)" style="font-weight:bold">SoundManipular</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\SoundManipular.m',27,0)">line 27</a>)
+        ChangeFrequency();
+} 
+matlab.internal.language.introspective.errorDocCallback('SoundManipular>ChangeFrequency', 'C:\MATLAB\Lab No. 05\SoundManipular.m', 69)
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :5
+Enter the duration of recording 5
+Start Speaking :
+End Speaking
+        8000
+
+Enter new frequency 7000
+New sound is :
+EchoSound
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('horzcat')" style="font-weight:bold">horzcat</a>
+Dimensions of matrices being concatenated are not consistent.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EchoSound', 'C:\MATLAB\Lab No. 05\EchoSound.m', 4)" style="font-weight:bold">EchoSound</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\EchoSound.m',4,0)">line 4</a>)
+x=[a o];
+} 
+EchoSound
+{Error: <a href="matlab: opentoline('C:\MATLAB\Lab No. 05\EchoSound.m',8,1)">File: EchoSound.m Line: 8 Column: 1
+</a>This statement is not inside any function.
+ (It follows the END that terminates the definition of the function "EchoSound".)
+} 
+EchoSound
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('horzcat')" style="font-weight:bold">horzcat</a>
+Dimensions of matrices being concatenated are not consistent.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EchoSound', 'C:\MATLAB\Lab No. 05\EchoSound.m', 4)" style="font-weight:bold">EchoSound</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\EchoSound.m',4,0)">line 4</a>)
+x=[a o];
+} 
+matlab.internal.language.introspective.errorDocCallback('EchoSound', 'C:\MATLAB\Lab No. 05\EchoSound.m', 4)
+matlab.internal.language.introspective.errorDocCallback('horzcat')
+clc
+EchoSound
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('horzcat')" style="font-weight:bold">horzcat</a>
+Dimensions of matrices being concatenated are not consistent.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EchoSound', 'C:\MATLAB\Lab No. 05\EchoSound.m', 4)" style="font-weight:bold">EchoSound</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\EchoSound.m',4,0)">line 4</a>)
+x=[a o];
+} 
+clc
+EchoSound
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('horzcat')" style="font-weight:bold">horzcat</a>
+Dimensions of matrices being concatenated are not consistent.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EchoSound', 'C:\MATLAB\Lab No. 05\EchoSound.m', 4)" style="font-weight:bold">EchoSound</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\EchoSound.m',4,0)">line 4</a>)
+x=[a o];
+} 
+EchoSound
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('horzcat')" style="font-weight:bold">horzcat</a>
+Dimensions of matrices being concatenated are not consistent.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EchoSound', 'C:\MATLAB\Lab No. 05\EchoSound.m', 4)" style="font-weight:bold">EchoSound</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\EchoSound.m',4,0)">line 4</a>)
+x=[a,o];
+} 
+EchoSound
+     1     2     3     4     5     0     0     0     0     0
+
+EchoSound
+Enter the duration of recording 5
+Start Speaking :
+End Speaking :
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('horzcat')" style="font-weight:bold">horzcat</a>
+Dimensions of matrices being concatenated are not consistent.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EchoSound', 'C:\MATLAB\Lab No. 05\EchoSound.m', 4)" style="font-weight:bold">EchoSound</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\EchoSound.m',4,0)">line 4</a>)
+x=[a o];
+} 
+matlab.internal.language.introspective.errorDocCallback('horzcat')
+EchoSound
+Enter the duration of recording {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EchoSound>getSound', 'C:\MATLAB\Lab No. 05\EchoSound.m', 10)" style="font-weight:bold">EchoSound>getSound</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\EchoSound.m',10,0)">line 10</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EchoSound', 'C:\MATLAB\Lab No. 05\EchoSound.m', 2)" style="font-weight:bold">EchoSound</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\EchoSound.m',2,0)">line 2</a>)
+a=getSound();
+} 
+EchoSound
+Enter the duration of recording 3
+Start Speaking :
+End Speaking :
+<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\EchoSound.m',3,1)">3   </a>o=zeros(1,5);
+EchoSound
+Enter the duration of recording 4
+Start Speaking :
+End Speaking :
+EchoSound
+Enter the duration of recording 5
+Start Speaking :
+End Speaking :
+EchoSound
+Enter the duration of recording 4
+Start Speaking :
+End Speaking :
+EchoSound
+Enter the duration of recording 5
+Start Speaking :
+End Speaking :
+EchoSound
+Enter the duration of recording 3
+Start Speaking :
+End Speaking :
+EchoSound
+Enter the duration of recording 5
+Start Speaking :
+End Speaking :
+EchoSound
+Enter the duration of recording 3
+Start Speaking :
+End Speaking :
+EchoSound
+Enter the duration of recording 5
+Start Speaking :
+End Speaking :
+BeforeOrAfter
+1) Before Echo 
+2) After Echo 
+Enter your choice :2
+<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\BeforeOrAfter.m',13,1)">13  </a>a=getSound();
+if system_dependent('IsDebugMode')==1, dbcont; end
+Enter the duration of recording 3
+Start Speaking :
+End Speaking :
+EchoSound
+Enter the duration of recording 5
+Start Speaking :
+End Speaking :
+clc
+EchoSound
+Enter the duration of recording 3
+Start Speaking :
+End Speaking :
+EchoSound
+Enter the duration of recording 3
+Start Speaking :
+End Speaking :
+EchoSound
+Enter the duration of recording 2
+Start Speaking :
+End Speaking :
+EchoSound
+Enter the duration of recording 2
+Start Speaking :
+End Speaking :
+EchoSound
+Enter the duration of recording 2
+Start Speaking :
+End Speaking :
+EchoSound
+Enter the duration of recording {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EchoSound>getSound', 'C:\MATLAB\Lab No. 05\EchoSound.m', 10)" style="font-weight:bold">EchoSound>getSound</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\EchoSound.m',10,0)">line 10</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EchoSound', 'C:\MATLAB\Lab No. 05\EchoSound.m', 2)" style="font-weight:bold">EchoSound</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 05\EchoSound.m',2,0)">line 2</a>)
+a=getSound();
+} 
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :5
+Enter the duration of recording 2
+Start Speaking :
+End Speaking :
+Sampling Frequency of your sound is : 
+        8000
+
+Enter new frequency 9000
+New sound is :
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :5
+Enter the duration of recording 5
+Start Speaking :
+End Speaking :
+Sampling Frequency of your sound is : 
+        8000
+
+Enter new frequency 9000
+New sound is :
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :5
+Enter the duration of recording 3
+Start Speaking :
+End Speaking :
+Sampling Frequency of your sound is : 
+        8000
+
+Enter new frequency 2
+New sound is :
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :5
+Enter the duration of recording 4
+Start Speaking :
+End Speaking :
+Sampling Frequency of your sound is : 
+        8000
+
+Enter new frequency 4
+New sound is :
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :5
+Enter the duration of recording 3
+Start Speaking :
+End Speaking :
+Sampling Frequency of your sound is : 
+        8000
+
+Enter new frequency 3
+New sound is :
+SoundManipular
+Enter your choice :
+1) Flip your sound 
+2) Overlap your sound 
+3) Increase Amplitude of your sound 
+4) Decrease Amplitude of your sound 
+5) Change Frequency of your sound 
+Your choice :5
+Enter the duration of recording 3
+Start Speaking :
+End Speaking :
+Sampling Frequency of your sound is : 
+        8000
+
+Enter new frequency 3
+New sound is :

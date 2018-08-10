@@ -1,0 +1,501 @@
+CAEDLabNo03
+Sum is :
+    11
+
+CAEDLabNo03
+Sum is :
+    11
+
+    0.8333
+
+CAEDLabNo03
+Sum is :
+    11
+
+    0.8333
+
+CAEDLabNo03
+Sum is :
+    11
+
+    0.8333
+
+CAEDLabNo03
+Sum is :
+    11
+
+    0.8333
+
+After For loop :
+    42
+
+CAEDLabNo03
+Sum is :
+    11
+
+    0.8333
+
+After For loop :
+    42
+
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('CAEDLabNo03', 'C:\MATLAB\Lab No. 03\CAEDLabNo03.m', 31)" style="font-weight:bold">CAEDLabNo03</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\CAEDLabNo03.m',31,0)">line 31</a>)
+
+} 
+CAEDLabNo03
+Sum is :
+    11
+
+    0.8333
+
+After For loop :
+    42
+
+while loop
+     5
+
+Enter your name M Zain
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('CAEDLabNo03', 'C:\MATLAB\Lab No. 03\CAEDLabNo03.m', 38)" style="font-weight:bold">CAEDLabNo03</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\CAEDLabNo03.m',38,0)">line 38</a>)
+Error: Unexpected MATLAB expression.
+} 
+Enter your nameMZain
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('input')" style="font-weight:bold">input</a>
+Undefined function or variable 'MZain'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('CAEDLabNo03', 'C:\MATLAB\Lab No. 03\CAEDLabNo03.m', 38)" style="font-weight:bold">CAEDLabNo03</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\CAEDLabNo03.m',38,0)">line 38</a>)
+x=input('Enter your name');
+} 
+Enter your name4
+Enter your Reg no.5
+clc
+firstfunction(i,j);
+    11
+
+firstfunction
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('firstfunction', 'C:\MATLAB\Lab No. 03\firstfunction.m', 5)" style="font-weight:bold">firstfunction</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\firstfunction.m',5,0)">line 5</a>)
+Not enough input arguments.
+} 
+firstfunction(i,j);
+Sum is : 
+    11
+
+clc
+firstfunction(i,j);
+Sum is : 
+    11
+
+main
+Sum is : 
+    10
+
+DisplayArray
+     5    10    15    20    25    30    35    40    45    50
+
+clc
+save
+
+Saving to: C:\MATLAB\Lab No. 03\matlab.mat
+
+clc
+clear
+Display
+{Error: <a href="matlab: opentoline('C:\MATLAB\Lab No. 03\Display.m',16,30)">File: Display.m Line: 16 Column: 30
+</a>Expression or statement is incorrect--possibly unbalanced (, {, or [.
+} 
+Display
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+First array 0-10 is :
+    30    50   100   200    80   500
+
+Second array 11-100 is :
+{Undefined function or variable "c".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Display>Qs_1', 'C:\MATLAB\Lab No. 03\Display.m', 30)" style="font-weight:bold">Display>Qs_1</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\Display.m',30,0)">line 30</a>)
+disp(c);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Display', 'C:\MATLAB\Lab No. 03\Display.m', 5)" style="font-weight:bold">Display</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\Display.m',5,0)">line 5</a>)
+Qs_1(a);
+} 
+Display()
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+First array 0-10 is :
+    30    50   100   200    80   500
+
+Second array 11-100 is :
+{Undefined function or variable "c".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Display>Qs_1', 'C:\MATLAB\Lab No. 03\Display.m', 31)" style="font-weight:bold">Display>Qs_1</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\Display.m',31,0)">line 31</a>)
+disp(c);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Display', 'C:\MATLAB\Lab No. 03\Display.m', 5)" style="font-weight:bold">Display</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\Display.m',5,0)">line 5</a>)
+Qs_1(a);
+} 
+matlab.internal.language.introspective.errorDocCallback('Display>Qs_1', 'C:\MATLAB\Lab No. 03\Display.m', 31)
+clc
+DisplayQs_1
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+First array 0-10 is :
+    30    50   100   200    80   500
+
+Second array 11-100 is :
+{Undefined function or variable "c".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DisplayQs_1>Qs_1', 'C:\MATLAB\Lab No. 03\DisplayQs_1.m', 31)" style="font-weight:bold">DisplayQs_1>Qs_1</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\DisplayQs_1.m',31,0)">line 31</a>)
+disp(c);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DisplayQs_1', 'C:\MATLAB\Lab No. 03\DisplayQs_1.m', 5)" style="font-weight:bold">DisplayQs_1</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\DisplayQs_1.m',5,0)">line 5</a>)
+Qs_1(a);
+} 
+DisplayQs_1
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+First array 0-10 is :
+{Undefined function or variable "b".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DisplayQs_1>Qs_1', 'C:\MATLAB\Lab No. 03\DisplayQs_1.m', 29)" style="font-weight:bold">DisplayQs_1>Qs_1</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\DisplayQs_1.m',29,0)">line 29</a>)
+disp(b);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DisplayQs_1', 'C:\MATLAB\Lab No. 03\DisplayQs_1.m', 5)" style="font-weight:bold">DisplayQs_1</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\DisplayQs_1.m',5,0)">line 5</a>)
+Qs_1(a);
+} 
+clc
+DisplayQs_1
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+First array 0-10 is :
+{Undefined function or variable "b".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DisplayQs_1>Qs_1', 'C:\MATLAB\Lab No. 03\DisplayQs_1.m', 29)" style="font-weight:bold">DisplayQs_1>Qs_1</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\DisplayQs_1.m',29,0)">line 29</a>)
+disp(b);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DisplayQs_1', 'C:\MATLAB\Lab No. 03\DisplayQs_1.m', 5)" style="font-weight:bold">DisplayQs_1</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\DisplayQs_1.m',5,0)">line 5</a>)
+Qs_1(a);
+} 
+DisplayQs_2
+Enter your array2 3 4 5 6
+ 2 3 4 5 6
+   |
+{Error: Unexpected MATLAB expression.
+} 
+
+clc
+DisplayQs_1
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+First array 0-10 is :
+{Undefined function or variable "b".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DisplayQs_1>Qs_1', 'C:\MATLAB\Lab No. 03\DisplayQs_1.m', 29)" style="font-weight:bold">DisplayQs_1>Qs_1</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\DisplayQs_1.m',29,0)">line 29</a>)
+disp(b);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DisplayQs_1', 'C:\MATLAB\Lab No. 03\DisplayQs_1.m', 5)" style="font-weight:bold">DisplayQs_1</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\DisplayQs_1.m',5,0)">line 5</a>)
+Qs_1(a);
+} 
+clc
+DisplayArray
+     5    10    15    20    25    30    35    40    45    50
+
+DisplayQs_1
+First array 0-10 is :
+{Undefined function or variable "b".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DisplayQs_1>Qs_1', 'C:\MATLAB\Lab No. 03\DisplayQs_1.m', 29)" style="font-weight:bold">DisplayQs_1>Qs_1</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\DisplayQs_1.m',29,0)">line 29</a>)
+disp(b);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DisplayQs_1', 'C:\MATLAB\Lab No. 03\DisplayQs_1.m', 5)" style="font-weight:bold">DisplayQs_1</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\DisplayQs_1.m',5,0)">line 5</a>)
+Qs_1(a);
+} 
+DisplayQs_1
+First array 0-10 is :
+{Undefined function or variable "b".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DisplayQs_1>Qs_1', 'C:\MATLAB\Lab No. 03\DisplayQs_1.m', 30)" style="font-weight:bold">DisplayQs_1>Qs_1</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\DisplayQs_1.m',30,0)">line 30</a>)
+disp(b);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DisplayQs_1', 'C:\MATLAB\Lab No. 03\DisplayQs_1.m', 5)" style="font-weight:bold">DisplayQs_1</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\DisplayQs_1.m',5,0)">line 5</a>)
+Qs_1(a);
+} 
+DisplayQs_1
+First array 0-10 is :
+     2     3     8     4     4
+
+Second array 11-100 is :
+    30    50   100    80
+
+Third array 101-1000 is :
+   200   500
+
+DisplayQs_2
+  Columns 1 through 20
+
+     1     2     3     4     6     7     8     9    11    12    13    14    16    17    18    19    21    22    23    24
+
+  Columns 21 through 40
+
+    26    27    28    29    31    32    33    34    36    37    38    39    41    42    43    44    46    47    48    49
+
+clc
+DisplayQs_3
+Maximum value is 
+   642
+
+Minimum value is 
+     2
+
+DisplayQs_4
+Enter your first number : 2
+Enter your second number : 4
+Enter your choice 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DisplayQs_4', 'C:\MATLAB\Lab No. 03\DisplayQs_4.m', 5)" style="font-weight:bold">DisplayQs_4</a> (<a href="matlab: opentoline('C:\MATLAB\Lab No. 03\DisplayQs_4.m',5,0)">line 5</a>)
+Inner matrix dimensions must agree.
+} 
+DisplayQs_4
+Enter your first number : 2
+Enter your second number : 3
+Enter your choice 
+ + , - , * , / '+'
+Your result is : 
+     5
+
+clc
+DisplayQs_5
+Starting value 0
+
+a =
+
+     0
+
+Ending value 180
+
+b =
+
+   180
+
+[Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more
+information, click <a href="matlab:opengl('problems')">here</a>.] 
+DisplayQs_5
+Starting value -180
+Ending value 180
+DisplayQs_5
+Starting value -360
+Ending value 360
+clc
+save
+
+Saving to: C:\MATLAB\Lab No. 03\matlab.mat
+
